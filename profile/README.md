@@ -1,6 +1,8 @@
 # UTEC ML Group
 
-Welcome to the GitHub organization for the Machine Learning group from Universidad de Ingenieria y Tecnologia (UTEC)! In UTEC ML we aim for scalable, reproducible research projects that allow for fast and flexible collaboration. For this reason, we consider a series of principles taken from the Git Flow development workflow, as they address these objectives by design. In the next section we provide a summary of the steps to follow to start a new project or contribute to existing one.
+Welcome to the GitHub organization for the Machine Learning group from Universidad de Ingenieria y Tecnologia (UTEC)! In UTEC ML we aim for scalable, reproducible research projects that allow for fast and flexible collaboration. For this reason, we consider a series of principles taken from the Git Flow development workflow, as they address these objectives by design. In the next section we provide a summary of the steps to follow to start a new project or contribute to an existing one.
+
+_Note: read the **highlighted** lines only if you only care for concise instructions. Read the rest for a detailed description._
 
 ## How to contribute
 
